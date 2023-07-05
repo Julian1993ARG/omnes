@@ -2,8 +2,8 @@ using FluentMigrator;
 
 namespace omnes.Migrations.DefaultDB
 {
-    [Migration(20230703_1239)]
-    public class DefaultDB_20230703_1239_Locaciones : AutoReversingMigration
+    [Migration(20230703_1000)]
+    public class DefaultDB_20230703_1000_Locaciones : AutoReversingMigration
     {
         public override void Up()
         {
